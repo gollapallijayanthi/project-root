@@ -197,9 +197,6 @@ Includes everything needed for evaluation:
 
 [https://github.com/gollapallijayanthi/project-root](https://github.com/gollapallijayanthi/project-root)
 
-###  Docker Hub Image
-
-[https://hub.docker.com/r/jayanthigollapalli10/nft-contract](https://hub.docker.com/r/jayanthigollapalli10/nft-contract)
 
 ---
 
